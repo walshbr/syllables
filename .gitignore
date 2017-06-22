@@ -1,0 +1,6 @@
+.DS_Store
+omeros*
+*.pyc
+PyHyphen*
+env/
+results.txt
